@@ -1,0 +1,7 @@
+[
+  {"nume":"Ion Popescu","post":"sef departament","dataAngajarii":"2022-04-15","salariu":4000.0},
+  {"nume":"Maria Ionescu","post":"director","dataAngajarii":"2021-06-20","salariu":5000.0},
+  {"nume":"Andrei Vasilescu","post":"inginer","dataAngajarii":"2019-03-10","salariu":3000.0},
+  {"nume":"Ioana Dumitru","post":"sef echipa","dataAngajarii":"2020-04-05","salariu":3500.0},
+  {"nume":"George Ene","post":"analist","dataAngajarii":"2021-07-30","salariu":2500.0}
+]
